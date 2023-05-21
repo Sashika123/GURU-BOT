@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['0776381721', '𝗦𝗮𝘀𝗵𝗶𝗸𝗮 ㋛︎♫︎', true],
+  ['0779465942', '𝗦𝗮𝘀𝗵𝗶𝗸𝗮...', true], 
   [''] 
 ] //Number of owners
 
@@ -47,23 +47,27 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
-global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
-global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
+global.botname = '𝐒𝐒𝐁 𝐁𝐨𝐓 202𝐤 ♫︎.'
+global.premium = '𝗦𝗮𝘀𝗵𝗶𝗸𝗮 𝘀𝗲𝗻𝗮𝗿𝗮𝘁𝗵☯︎✈︎'
+global.packname = '𝚜𝚊𝚜𝚑𝚒𝚔𝚊 𝚜𝚎𝚗𝚊𝚛𝚊𝚝𝚑✌︎✍︎' 
+global.author = '@𝐒𝐚𝐬𝐡𝐢𝐤𝐚 ♪♪♪' 
+global.igfg = '▢ Follow' 
+global.dygp = 'Hey,
+
+WhatsApp Business is an app built for small business owners. With the app, you can create a business profile and easily connect with customers.
+
+Get it for free at https://www.whatsapp.com/business/'
+global.fgsc = 'https://github.com/Sashika123/GURU-BOT' 
+global.fgyt = 'https://www.whatsapp.com/business/'
+global.fgpyp = 'https://github.com/Sashika123/GURU-BOT'
 global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.wait = '*⌛ _Charging..._*\sashika ✔︎✔︎✔︎*'
+global.rwait = '⌛사시그'
 global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.done = 'done✅'
+global.error = 'කිසියම් දෝෂයක් සිදු වී ඇත😐❌' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
