@@ -7,8 +7,8 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'GURU', true],
-  ['6281255369012', 'Ash', true], 
+  ['0776381721', 'Sashika', true],
+  ['077946942', '사시그', true], 
   [''] 
 ] //Number of owners
 
@@ -47,23 +47,23 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'ᴛʜᴇ ɢᴜʀᴜ-ʙᴏᴛ'
+global.botname = '𝗦𝗮𝘀𝗵𝗶𝗸𝗮 202𝗞♲︎︎︎'
 global.premium = 'true'
-global.packname = 'GURU┃ᴮᴼᵀ' 
-global.author = '@Asliguru' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
-global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
+global.packname = '𝐒𝐚𝐬𝐡𝐢𝐤𝐚✌︎✈︎' 
+global.author = '@𝑠𝑎𝑠ℎ𝑖𝑘𝑎 𝑠𝑒𝑛𝑎𝑟𝑎𝑡ℎ ♫︎ ✔︎' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/sashika_senarath' 
+global.dygp = 'https://chat.whatsapp.com/FY56bK3NraWLc3vUlRFnYi'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
-global.fgyt = 'https://youtube.com/@Asliguru'
-global.fgpyp = 'https://youtube.com/@Asliguru'
-global.fglog = 'https://raw.githubusercontent.com/Guru322/api/Guru/guru.jpg' 
+global.fgyt = 'https://youtube.com/@Sl sashi bro'
+global.fgpyp = 'https://youtube.com/@Sl sashi bro'
+global.fglog = 'https://github.com/Sashika123/GURU-BOT' 
 global.dbase = 'mongodb+srv://guru:guru@cluster0.qpggl6x.mongodb.net/?retryWrites=true&w=majority' //ADD YOUR MONGODB BY CHANGIMG IT
 
-global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
-global.rwait = '⌛'
+global.wait = '*⌛ _Charging..._*𝙎𝙖𝙨𝙝𝙞𝙠𝙖 202Ⓚ︎ ♪♪♪*'
+global.rwait = '𝗐𝖺𝗂𝗍...⌛'
 global.dmoji = '🤭'
-global.done = '✅'
-global.error = '❌' 
+global.done = 'හරි ✅'
+global.error = 'කිසියම් දෝෂයක් සිදු වී ඇත😐❌' 
 global.xmoji = '🔥' 
 
 global.multiplier = 69 
